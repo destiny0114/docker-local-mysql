@@ -45,6 +45,3 @@ A [docker-compose](https://docs.docker.com/compose/) sample to start `MySQL` dat
     password: root
     database: # you can leave database to empty
   ```
-
-That's it!
-----------
