@@ -1,6 +1,7 @@
 # docker-local-mysql
 A [docker-compose](https://docs.docker.com/compose/) sample to start `MySQL` database.
 
+Note: the images used are for arm64 be sure change those image when you not using arm64 processor
 
 # How to use?
 
